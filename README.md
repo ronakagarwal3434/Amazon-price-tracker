@@ -1,6 +1,6 @@
 # Amazon-price-tracker
 
-> A app to keep track of amazon's products prices and to be notified when the value reaches a specified value via e-mail.
+> An app to keep track of amazon's products prices and to be notified when the value reaches a desired value via e-mail.
 
 ## Quick Start
 
